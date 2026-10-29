@@ -47,14 +47,5 @@ Análisis estadístico de un experimento A/B con **40,000 usuarios** para decidi
 └── README.md
 ```
 
-## ▶️ Cómo ejecutarlo
-```bash
-git clone https://github.com/TU_USUARIO/TU_REPO.git
-cd TU_REPO
-pip install pandas numpy scipy statsmodels seaborn matplotlib jupyter
-jupyter notebook
-```
-> Ajusta la ruta del CSV en la primera celda (`pd.read_csv('landing_experiment.csv')`).
-
 ## 👤 Autor
-**TU NOMBRE** · [LinkedIn](https://www.linkedin.com/in/miguel-rodriguez-dataanalyst/) · [Correo](mian.rove04@gmail.com)
+**Miguel Angel Rodriguez Vega** · [LinkedIn](https://www.linkedin.com/in/miguel-rodriguez-dataanalyst/) · [Correo](mian.rove04@gmail.com)
